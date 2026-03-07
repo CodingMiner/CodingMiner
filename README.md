@@ -9,11 +9,20 @@ I'm passionate about clean architecture, modern frontend ecosystems and turning 
 
 ## 🛠️ Tech Stack
 
-**Frontend** — React · Next.js · Angular · TypeScript · HTML5 · Tailwind CSS
-**Backend** — Node.js · Express · NestJS · MongoDB 
-**Cloud & DevOps** — AWS (Lambda, S3, CloudFront, ECS) · GitHub Actions · CI/CD  
-**Auth & Integration** — OAuth2 / Okta · Headless CMS (Contentstack)  
-**Tooling** — Git · Docker
+🎨 **Frontend**  
+React · Next.js · Angular · TypeScript · HTML5 · Tailwind CSS
+
+⚙️ **Backend**  
+Node.js · Express · NestJS · MongoDB 
+
+☁️ **Cloud & DevOps**  
+AWS (Lambda, S3, CloudFront, ECS) · GitHub Actions · CI/CD  
+
+🔐 **Auth & Integration**  
+OAuth2 / Okta · Headless CMS (Contentstack)
+
+🧰 **Tooling**  
+Git · Docker
 
 ---
 
