@@ -2,10 +2,8 @@
 
 ### Senior Frontend Developer from Warsaw, Poland 🇵🇱
 
-I build fast, scalable and user-friendly web applications. 
-I'm passionate about clean architecture, modern frontend ecosystems and turning complex problems into elegant interfaces.
-
----
+I build fast, scalable and user-friendly web applications.<br>
+I'm passionate about clean architecture, modern frontend ecosystems and turning complex problems into elegant interfaces.  
 
 ## 🛠️ Tech Stack
 
@@ -13,27 +11,10 @@ I'm passionate about clean architecture, modern frontend ecosystems and turning 
 React · Next.js · Angular · TypeScript · HTML5 · Tailwind CSS
 
 ⚙️ **Backend**  
-Node.js · Express · NestJS · MongoDB 
+Node.js · Express · NestJS · MongoDB · Docker 
 
 ☁️ **Cloud & DevOps**  
 AWS (Lambda, S3, CloudFront, ECS) · GitHub Actions · CI/CD  
-
-🔐 **Auth & Integration**  
-OAuth2 / Okta · Headless CMS (Contentstack)
-
-🧰 **Tooling**  
-Git · Docker
-
----
-
-## 🔭 What I'm Up To
-
-- 🏗️ Architecting centralized authentication services
-- ☁️ Building serverless **AWS** infrastructure
-- 🧩 Working with monorepos to keep large codebases maintainable and scalable
-- 🤖 Exploring the intersection of **AI / LLMs** and developer tooling
-
----
 
 ## 💡 Things I Care About
 
@@ -42,8 +23,6 @@ Git · Docker
 - Performance — both perceived and measured
 - Sharing knowledge and helping other developers grow
 
----
-
 ## 🧠 Currently Learning & Exploring
 
 - React 19 and the evolving React ecosystem
@@ -51,18 +30,15 @@ Git · Docker
 - AI-assisted development workflows
 - AWS infrastructure as code at scale
 
----
-
 ## ⚡ Beyond the Code
 
 When I'm not coding, you'll find me:
 
 - 🎮 Gaming on PS5 *(Ghost of Tsushima, EA FC, FromSoftware titles)*
 - ♟️ Playing chess
+- 🧩 Solving sudoku puzzles
 - 📚 Deep in the **Cosmere** — currently reading the Stormlight Archive by Brandon Sanderson
 - 🏋️ At the gym
-
----
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kgornik97/)
