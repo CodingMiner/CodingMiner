@@ -19,16 +19,16 @@ I'm passionate about clean architecture, modern frontend ecosystems and turning 
 
 ## 🔭 What I'm Up To
 
-- 🏗️ Architecting centralized authentication services with **Next.js + Okta + AWS**
-- ☁️ Building serverless infrastructure with **Lambda**, **API Gateway**, and **Terraform**
-- 🧩 Working with **NX monorepos** to keep large codebases maintainable and scalable
+- 🏗️ Architecting centralized authentication services
+- ☁️ Building serverless **AWS** infrastructure
+- 🧩 Working with monorepos to keep large codebases maintainable and scalable
 - 🤖 Exploring the intersection of **AI / LLMs** and developer tooling
 
 ---
 
 ## 💡 Things I Care About
 
-- Writing code that's easy to read, test, and extend
+- Writing code that's easy to read, test and extend
 - Design patterns that actually solve real problems (not just academic ones)
 - Performance — both perceived and measured
 - Sharing knowledge and helping other developers grow
@@ -52,29 +52,12 @@ When I'm not coding, you'll find me:
 - ♟️ Playing chess
 - 📚 Deep in the **Cosmere** — currently reading the Stormlight Archive by Brandon Sanderson
 - 🏋️ At the gym
-- 🌱 Tending to my growing houseplant collection
-- 🖨️ Tinkering with my 3D printer
 
 ---
 
 ## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kgornik97/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kgornik.dev@gmail.com)
 
 ---
 
