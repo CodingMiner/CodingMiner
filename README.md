@@ -40,6 +40,13 @@ When I'm not coding, you'll find me:
 - 📚 Deep in the **Cosmere** — currently reading the Stormlight Archive by Brandon Sanderson
 - 🏋️ At the gym
 
+## 📊 GitHub Contributions                                                              
+                                                                                          
+> **Note:** The graph below includes activity from private repositories and commercial
+projects that are not publicly visible on GitHub.
+
+<img width="796" height="226" alt="github-contributions" src="https://github.com/user-attachments/assets/09c44df4-ba28-47eb-ab1d-6b18fb77a6c7" />
+
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kgornik97/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kgornik.dev@gmail.com)
