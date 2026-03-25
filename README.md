@@ -19,7 +19,7 @@ AWS (Lambda, S3, CloudFront, ECS) · GitHub Actions · CI/CD
 ## 💡 Things I Care About
 
 - Writing code that's easy to read, test and extend
-- Design patterns that actually solve real problems (not just academic ones)
+- Design patterns that actually solve real problems
 - Performance — both perceived and measured
 - Sharing knowledge and helping other developers grow
 
